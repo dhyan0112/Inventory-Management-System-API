@@ -166,8 +166,3 @@ PASS  tests/product.test.js
 
 - Currently uses **in-memory data** (`src/models/productModel.js`) for simplicity.
 - Designed with **MVC architecture** and clear separation of concerns.
-
----
-
-### 🩵 License
-MIT License © 2025
